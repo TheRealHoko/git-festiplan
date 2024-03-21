@@ -66,7 +66,6 @@ unset($pdo);
                             </div>
                             <div class="bottom">
                                 <p>Lieu: <?php echo htmlspecialchars($event["location"]); ?></p>
-                                <p>Date: <?php echo htmlspecialchars($event["event_date"]); ?></p>
                             </div>
                         </div>
                     </a>
